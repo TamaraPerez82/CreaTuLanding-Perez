@@ -7,7 +7,7 @@ const App = ()=>{
     return(
         <>
         <Navbar/>
-        <ItemListContainer greeting={'Proximamente podras ver nuestros productos'}/>
+        <ItemListContainer greeting={'Próximamente podrás hacer tu pedido'}/>
         <Banner/>
         </>
     )

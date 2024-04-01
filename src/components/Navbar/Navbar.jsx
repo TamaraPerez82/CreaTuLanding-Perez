@@ -11,6 +11,14 @@ const Navbar = () => {
       <img className='LogoV' src={LogoV} alt="LogoV" /> 
       <h1 className="navbar-logo">Valery's</h1>   
       
+                 
+            <div className='btn-platos'>
+        <button>Platos</button>
+        <button>Bebidas</button>
+        <button>Postres</button>
+        </div>
+      
+     
       <CartWidget/>
       </nav>
       </div>
