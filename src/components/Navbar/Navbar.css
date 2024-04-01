@@ -1,0 +1,32 @@
+.nav-container{
+    position: sticky;
+    z-index: 3;
+    top: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 18vh;
+    background: rgb(255, 8, 0);
+    background: linear-gradient(0deg,rgb(231, 116, 49)19%,rgb(247, 32, 4)100%);
+}
+.navbar-logo{
+    margin: auto;
+    text-align: center;
+    color: rgb(255, 166, 0);    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, cursive;
+    margin-top: 4vh;
+ 
+}
+img{
+    
+    height: 90px;
+    padding: 10px;   
+    
+}
+div{
+    margin: 20px;
+}
+
+
+
